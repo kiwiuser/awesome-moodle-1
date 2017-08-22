@@ -11,6 +11,7 @@
 MediaTouch: https://www.mediatouch.it/en
  
 # System Administration
+Obtaining Moodle via git: https://docs.moodle.org/33/en/Git_for_Administrators
 
 # Moodle web administration
 
