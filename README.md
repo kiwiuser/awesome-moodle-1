@@ -17,6 +17,7 @@ Obtaining Moodle via git: https://docs.moodle.org/33/en/Git_for_Administrators
 
 # Development tools
 Moodle Docs: https://docs.moodle.org/30/en/Developer_tools
+Moodle Docs Main Page: https://docs.moodle.org/dev/Main_Page
 MoodleBites: http://www.moodlebites.com/
 Moosh: http://moosh-online.com/
 
