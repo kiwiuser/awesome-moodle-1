@@ -23,6 +23,7 @@ Moosh: http://moosh-online.com/
 
 # Tutorials
 beginners course https://learn.moodle.net
+Teacher Quick Guide https://docs.moodle.org/33/en/Teacher_quick_guide
 
 # Development
 Moodle Development: https://docs.moodle.org/dev/Main_Page
